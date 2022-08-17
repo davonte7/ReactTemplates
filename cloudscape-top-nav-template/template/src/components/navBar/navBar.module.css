@@ -1,0 +1,31 @@
+.wrapper{
+    width: 100%;
+    position: sticky;
+    top: 0;
+    margin: 0%;
+    padding: 0%;
+    z-index: 1;
+}
+
+.subNavBar{
+    display:inline-flex; 
+    list-style: none; 
+    width:99.5%;  
+    text-align: center;
+    padding: .25%; 
+    margin: 0;
+    background-color: #3b4f68;
+    align-items: center;
+    justify-content: center;
+}
+
+.subNavItem {
+    font-size: large;
+    margin-right: 5%; 
+    margin-left: 5%;
+    color: white;
+}
+
+.subNavItem :hover{
+    color: #ec7211;
+}

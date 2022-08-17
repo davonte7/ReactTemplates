@@ -1,0 +1,6 @@
+.app-flex-wrapper {
+    display: flex;
+    min-height: 90vh;
+    flex-direction: column;
+    justify-content: flex-start;
+}

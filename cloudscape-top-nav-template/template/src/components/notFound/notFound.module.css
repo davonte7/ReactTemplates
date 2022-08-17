@@ -1,0 +1,11 @@
+.wrapper{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    color: gray;
+}
+
+.largeText{
+    margin: 0;
+    font-size: 5rem;
+}
